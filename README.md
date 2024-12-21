@@ -8,10 +8,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
-
 ## <div align="center">🎓 MS in Computer Science @ Cal State LA</div>
 
 <div align="center">
@@ -44,17 +40,6 @@
 
 <div align="center">
   
-### 📊 GitHub Stats
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-  
 ### 🏆 Achievements Showcase
   
 ```ascii
@@ -69,21 +54,23 @@
 
 <div align="center">
 
-### 🌟 Featured Skills
+### 🌟 Core Competencies
 
 ```mermaid
 mindmap
   root((AI/ML))
     Deep Learning
-      Neural Networks
-      Computer Vision
-      NLP
+      Transformer Architecture
+      CNN/RNN Models
+      Transfer Learning
     Machine Learning
-      Predictive Modeling
-      Feature Engineering
+      Model Optimization
+      Ensemble Methods
+      Pipeline Automation
     Data Science
-      Statistical Analysis
-      Data Visualization
+      ETL Pipeline Design
+      Time Series Analysis
+      Advanced Analytics
 ```
 
 </div>
@@ -100,7 +87,5 @@ Email: 2001roshanrs@gmail.com
 ```
 
 *Currently seeking opportunities in Machine Learning, Data Science, and AI*
-
-![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 </div>
