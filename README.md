@@ -16,6 +16,8 @@
                     AI/ML Engineer | Data Scientist | Computer Vision Specialist
 ```
 
+Passionate about transforming complex data challenges into elegant AI solutions, I thrive on pushing the boundaries of machine learning and computer vision to create real-world impact. My journey spans from developing smart waste classification systems to earthquake prediction models, always driven by the belief that AI can revolutionize how we solve tomorrow's problems.
+
 </div>
 
 ---
